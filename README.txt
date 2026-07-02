@@ -1,1 +1,1 @@
-Sube tambien tu Foto.jpeg y HV_Sergio.pdf al repositorio.
+Aqui se encuentra todo el repositorio de mi portafolio con todos los datos necesarios 
