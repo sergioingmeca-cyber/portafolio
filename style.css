@@ -290,11 +290,17 @@ footer{
     font-weight:600;
 }
 
+.project-card h3{
+    font-size:1.8rem;
+    margin-bottom:8px;
+}
+
 .project-card h4{
-    color:#8ea2bd;
+    color:#00d9ff;
+    font-size:1.05rem;
     font-weight:500;
-    margin-top:8px;
-    margin-bottom:22px;
+    margin-bottom:18px;
+
 }
 
 .project-buttons{
