@@ -258,15 +258,17 @@ footer{
   }
 
   .section h2{
-    font-size:36px;
-  }
+  font-size:48px;
+  margin-bottom:25px;   /* Antes estaba en 40px */
+}
 
 }
 .projects-intro{
     max-width:900px;
     color:#b8c3d0;
     line-height:1.8;
-    margin-bottom:50px;
+    margin-top:15px;
+    margin-bottom:60px;
 }
 
 .project-card{
