@@ -262,3 +262,69 @@ footer{
   }
 
 }
+.projects-intro{
+    max-width:900px;
+    color:#b8c3d0;
+    line-height:1.8;
+    margin-bottom:50px;
+}
+
+.project-card{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    min-height:430px;
+}
+
+.project-type{
+    display:inline-block;
+    align-self:flex-start;
+    margin-bottom:18px;
+    padding:8px 14px;
+    border-radius:999px;
+    background:rgba(0,217,255,.08);
+    border:1px solid rgba(0,217,255,.25);
+    color:#79eeff;
+    font-size:.72rem;
+    letter-spacing:1px;
+    font-weight:600;
+}
+
+.project-card h4{
+    color:#8ea2bd;
+    font-weight:500;
+    margin-top:8px;
+    margin-bottom:22px;
+}
+
+.project-buttons{
+    display:flex;
+    gap:14px;
+    margin-top:30px;
+}
+
+.project-btn{
+    flex:1;
+    text-align:center;
+    text-decoration:none;
+    padding:13px;
+    border-radius:14px;
+    background:#00d9ff;
+    color:#07111d;
+    font-weight:600;
+    transition:.3s;
+}
+
+.project-btn:hover{
+    transform:translateY(-3px);
+}
+
+.secondary-btn{
+    background:rgba(255,255,255,.08);
+    color:white;
+    border:1px solid rgba(255,255,255,.12);
+}
+
+.secondary-btn:hover{
+    border-color:#00d9ff;
+}
